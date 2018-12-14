@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttendanceWepApp", "AttendanceWepApp\AttendanceWepApp.csproj", "{4BE64460-ECB4-43D5-B409-2100F6F63D14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttendanceWepApp.Tests", "AttendanceWepApp.Tests\AttendanceWepApp.Tests.csproj", "{449C9ACA-E6EC-4A62-96FE-494FFD71ECCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BE64460-ECB4-43D5-B409-2100F6F63D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE64460-ECB4-43D5-B409-2100F6F63D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE64460-ECB4-43D5-B409-2100F6F63D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE64460-ECB4-43D5-B409-2100F6F63D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{449C9ACA-E6EC-4A62-96FE-494FFD71ECCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449C9ACA-E6EC-4A62-96FE-494FFD71ECCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449C9ACA-E6EC-4A62-96FE-494FFD71ECCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449C9ACA-E6EC-4A62-96FE-494FFD71ECCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7F2422F-F939-4810-B95D-D05C217F5F4C}
+	EndGlobalSection
+EndGlobal
